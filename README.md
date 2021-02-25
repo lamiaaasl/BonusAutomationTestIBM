@@ -21,3 +21,26 @@ Maven Project able to run with CL Using POM , DDT , BDD , cross browser Testing 
 3. Then type cd (your local project path ) ex: cd C:\Users\lasl\eclipse-workspace\BonusAutomationTestIBM
 
 4. Then type mvn test
+
+
+###To Run this project from BDD ###
+
+1. Just Download Project from GitHub
+
+2. Open BonusAutomationTestIBM\src\test\java\runner\TestRunner.java
+
+3. Run TestRunner as TestNG
+
+
+###To Run this project by TestNG from Eclipse###
+
+1. Just Download Project from GitHub
+
+2. Open testng.xml then run it as TestNG
+
+
+###To Run this project for CrossBrowser###
+
+1. Just Download Project from GitHub
+
+2. Open CrosssBrowser.xml then run it as TestNG

@@ -24,7 +24,7 @@ Maven Project able to run with CL Using POM , DDT , BDD , cross browser Testing 
 
 
 ###To Run this project from BDD ###
-
+( make sure you use new test data as this is not DDT just use static values of data )
 1. Just Download Project from GitHub
 
 2. Open BonusAutomationTestIBM\src\test\java\runner\TestRunner.java
